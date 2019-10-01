@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_width" type="id"></item>
+    <item name="edt_height" type="id"></item>
+    <item name="edt_length" type="id"></item>
+</resources>
